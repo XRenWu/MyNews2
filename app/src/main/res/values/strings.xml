@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">我的新闻客户端</string>
+    <string name="open">打开抽屉</string>
+    <string name="close">关闭抽屉</string>
+    <string-array name="tabNames">
+        <item>国内</item>
+        <item>国际</item>
+        <item>军事</item>
+        <item>财经</item>
+        <item>互联网</item>
+        <item>房产</item>
+        <item>汽车</item>
+        <item>体育</item>
+        <item>娱乐</item>
+        <item>游戏</item>
+        <item>教育</item>
+        <item>女人</item>
+        <item>科技</item>
+        <item>社会</item>
+    </string-array>
+    <string-array name="newsUrl">
+        <item>civilnews</item>
+        <item>internews</item>
+        <item>mil</item>
+        <item>finannews</item>
+        <item>internet</item>
+        <item>housenews</item>
+        <item>autonews</item>
+        <item>sportnews</item>
+        <item>enternews</item>
+        <item>gamenews</item>
+        <item>edunews</item>
+        <item>healthnews</item>
+        <item>technnews</item>
+        <item>socianews</item>
+    </string-array>
+
+    <string-array name="imageName">
+        <item>i00013059</item>
+        <item>i01019477</item>
+        <item>i01020916</item>
+        <item>i01020919</item>
+        <item>i01021312</item>
+    </string-array>
+</resources>
